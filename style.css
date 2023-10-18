@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
+
+#apps{
+    background-color: aliceblue
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#game{
+    background-color: lightsalmon;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+#chatbot{
+    background-color: rgb(196, 255, 196);
+}
